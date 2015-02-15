@@ -1,2 +1,2 @@
 # wvdial-conf
-Wvdial Config for Smartfren Ce782 Modem
+Configuration file for Smartfren Ce782 Modem
